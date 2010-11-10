@@ -1,0 +1,9 @@
+[RB Plugin]
+Loader=python
+Module=nowplaying-xml
+IAge=1
+Name=Now Playing XML
+Description=Creates an XML document that stores current song information (defaults to: "/tmp/nowplaying.xml").
+Authors=Kyle Florence <kyle.florence@gmail.com>
+Copyright=Copyright © 2009 Kyle Florence
+Website=http://kflorence.com/
